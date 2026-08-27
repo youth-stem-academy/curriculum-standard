@@ -1,5 +1,3 @@
-# curriculum-standard
-The five instructional-design checks every YSA lesson must clear before it ships
 # Making the Twentieth Lesson as Good as the First
 
 Anyone can build one good lesson. Give a thoughtful teacher a free afternoon and they will produce something better than most published curriculum.
