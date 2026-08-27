@@ -1,4 +1,12 @@
-# Making the Twentieth Lesson as Good as the First
+# Curriculum Standard — the five checks
+
+**Every lesson Youth STEM Academy ships has to clear these five checks before it can be finalised.** This is the first-line quality gate in our course production standard: not a reading list, a gate. A lesson that fails one does not ship.
+
+Published here because it is the part of how we work that we think is worth showing. It is also on LinkedIn as an article.
+
+---
+
+## Making the Twentieth Lesson as Good as the First
 
 Anyone can build one good lesson. Give a thoughtful teacher a free afternoon and they will produce something better than most published curriculum.
 
